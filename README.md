@@ -1,2 +1,2 @@
-# blender_bsplinemod
-BSpline modifiers for blender
+# freecad_bsplinemod
+BSpline modifiers for freecad
